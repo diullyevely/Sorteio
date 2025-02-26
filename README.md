@@ -16,6 +16,6 @@
 <h2 align="center">Projeto para visualização em celular/computador:</h2>
 <br>
 <div align="center">
-<img src="" alt="logo-celular width="400px" height="200px">
-<img src="" alt="logo-computador" width="200px" height="200px" >
+<img src="https://github.com/diullyevely/Sorteio/blob/main/assets/celular.jpeg?raw=true" alt="logo-celular width="400px" height="200px">
+<img src="https://github.com/diullyevely/Sorteio/blob/main/assets/computador.png?raw=true" alt="logo-computador" width="200px" height="200px" >
 </div>
