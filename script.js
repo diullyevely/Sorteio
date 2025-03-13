@@ -10,7 +10,7 @@ function sorteio() {
   
   const result = Math.floor(Math.random() * (input2-input1+1)+input1)
  
- resultado.innerHTML= result
+ resultado.innerHTML=  "Resultado: " + result
  
 
 }
